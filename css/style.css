@@ -40,13 +40,21 @@ header nav ul li a {
     text-decoration: none;
     text-transform: uppercase;
     padding: 10px;
-    margin-right: -4px;
+    margin-right: -5px;
     font-weight: bolder;
     color:darkolivegreen;
 } 
 
 header nav ul li a:hover {
     background: #FDFBED;
+}
+
+#pagina-inicial .menu-selecionado,
+#pagina-biografia .menu-selecionado,
+#pagina-campanhas .menu-selecionado,
+#pagina-contato .menu-selecionado {
+    background: #FDFBED;
+    cursor: text;
 }
 
 /* ********** ARTICLE ********** */
