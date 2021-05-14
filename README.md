@@ -14,3 +14,16 @@ This project is part of the Web Development course given by Professor Jamilton D
 
 ## Final result
 
+![](https://github.com/JorgeJuniorBSB/anna-bella_website/blob/dcd173c0a3ee6dcdfa571ff0f7a28c81cdae923c/public/tela-principal.png)
+
+
+
+![](https://github.com/JorgeJuniorBSB/anna-bella_website/blob/dcd173c0a3ee6dcdfa571ff0f7a28c81cdae923c/public/tela-biografia.png)
+
+
+
+![](https://github.com/JorgeJuniorBSB/anna-bella_website/blob/dcd173c0a3ee6dcdfa571ff0f7a28c81cdae923c/public/tela-campanhas.png)
+
+
+
+![](https://github.com/JorgeJuniorBSB/anna-bella_website/blob/dcd173c0a3ee6dcdfa571ff0f7a28c81cdae923c/public/tela-contato.png)
